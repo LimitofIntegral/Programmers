@@ -1,1 +1,1 @@
-print("just main")
+print("어리둥절")
